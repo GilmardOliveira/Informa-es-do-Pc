@@ -1,1 +1,1 @@
-﻿# Informaçôes-do-Pc
+﻿# Informações-do-Pc
