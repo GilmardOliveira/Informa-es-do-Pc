@@ -43,7 +43,3 @@ Praticar programação Python e aprender a consultar informações do sistema op
 * Tratamento de erros e organização do código
 
 ---
-
-**Autor:** Gilmar Oliveira
-
-Área de interesse: Infraestrutura de TI, Redes e Cybersecurity.
